@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2026-04-06-ai-discovery",
+    "content": "Just wrapped our AI discovery interviews across 6 departments. Key insight: the biggest automation wins aren't where you'd expect \u2014 back-office ops teams had 3x more viable use cases than engineering. Start with the people closest to the pain.",
+    "hashtags": [
+      "AI",
+      "Engineering",
+      "AutomationStrategy"
+    ],
+    "platforms": [
+      "linkedin",
+      "x"
+    ],
+    "scheduled_date": "2026-04-06T09:00:00",
+    "status": "pending",
+    "image": null,
+    "published_at": null,
+    "error": null
+  },
+  {
+    "id": "2026-04-08-team-leadership",
+    "content": "The best engineering managers I've worked with share one trait: they protect their team's focus like it's a finite resource. Because it is. Every \"quick sync\" and \"fast question\" has a hidden context-switch cost that compounds across the sprint.",
+    "hashtags": [
+      "Leadership",
+      "EngineeringManagement",
+      "TeamProductivity"
+    ],
+    "platforms": [
+      "linkedin"
+    ],
+    "scheduled_date": "2026-04-08T12:00:00",
+    "status": "pending",
+    "image": null,
+    "published_at": null,
+    "error": null
+  },
+  {
+    "id": "2026-04-10-coding-tip",
+    "content": "Stop writing try/except blocks around everything. If you can't name the specific exception you're catching and explain why, you're just hiding bugs. Let it crash \u2014 a loud failure is better than a silent wrong answer.",
+    "hashtags": [
+      "Python",
+      "CodingTips",
+      "SoftwareEngineering"
+    ],
+    "platforms": [
+      "x"
+    ],
+    "scheduled_date": "2026-04-10T15:00:00",
+    "status": "pending",
+    "image": null,
+    "published_at": null,
+    "error": null
+  }
+]
